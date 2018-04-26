@@ -1,0 +1,10 @@
+  798  ..
+  799  cd git-practice-2
+  800  git init
+  801  git status
+  802  git add assets/ index.html readme.md
+  803  git status
+  804  git commit -m "followed instructions"
+  805  git remote add origin https://github.com/kimhermosillo/VSGDrill2b.git
+  806  git push -u origin master
+  807  git pull
